@@ -1,0 +1,10 @@
+﻿Pon aqui las 4 fotos del microscopio con estos nombres (jpg, jpeg, png o webp):
+
+  densidad.jpg      -> cuero cabelludo con densidad normal o baja
+  grosor.jpg        -> cabellos gruesos mezclados con finos (miniaturizacion)
+  sebo.jpg          -> exceso de sebo / brillo
+  descamacion.jpg   -> escamas sobre la piel
+
+Recomendado: imagen cuadrada o casi cuadrada, centrada en lo importante
+(la pagina la recorta en un circulo), de 800 a 1200 px de lado y menos de 400 KB.
+Usa solo fotos de clientes que hayan dado su autorizacion.
